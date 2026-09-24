@@ -52,4 +52,3 @@ I specialize in full-stack application development, software performance enginee
 - **Salesforce:** Salesforce Certified AI Associate (Oct 2024)
 - **ServiceNow:** ServiceNow	Certified	System	Administrator (Aug 2025)
 - **ServiceNow:** ServiceNow	Certified	Application	Developer (Aug 2025)
--

@@ -1,36 +1,55 @@
-<div align="center"> <h1>Hi, I'm Thulasi Edhala</h1> <p><b>Full-Stack Developer | B.Tech CSE Student</b></p> <p> <a href="https://www.linkedin.com/in/thulasi-edhala-725637333/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="https://portfolio-beryl-phi-82.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel" alt="Portfolio"></a> <a href="mailto:thulasiedhala@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a> </p> </div>
-📊 Developer Analytics & Profile Metrics
+<div align="center">
+  <h1>Hi, I'm Thulasi Edhala</h1>
+  <p><b>Software Engineer | Full-Stack Development & Data Analytics</b></p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/thulasi-edhala-725637333/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://portfolio-beryl-phi-82.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
+    <a href="mailto:thulasiedhala@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  </p>
+</div>
 
-The metrics below update automatically based on repository activity.
+---
 
-GitHub Stats
+### 📊 Developer Analytics & Profile Metrics
 
-Top Languages
+*The metrics below update automatically based on repository activity.*
 
-🚀 Summary
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thulasiedhala&show_icons=true&theme=transparent&hide_border=true)](https://github.com/thulasiedhala)
 
-B.Tech CSE student specializing in full-stack application development, REST API design, and CI/CD automation. Hands-on experience building and deploying production-style systems — from a centralized API gateway on AWS to a full-stack RAG-based Q&A tool — with a strong foundation in relational databases and cloud deployment.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thulasiedhala&layout=compact&theme=transparent&hide_border=true)](https://github.com/thulasiedhala)
 
-💼 Experience
-Python Full Stack Developer @ AICTE EduSkills Built full-stack web applications using backend Python frameworks and integrated frontend technologies during a virtual internship.
-ServiceNow Certificate Holder @ ServiceNow Automated IT workflows and built applications on the ServiceNow platform during a virtual internship, applying core IT service management concepts.
-Participant @ Smart India Hackathon (SIH) 2025 Built a working prototype for a real-world problem in a time-bound, sprint-style hackathon, applying agile problem-solving within a cross-functional team.
-🛠️ Technical Arsenal
-Core Languages: Java, C, Python, TypeScript, JavaScript
-Backend & Cloud: Node.js, Express.js, Django, Spring Boot, AWS (EC2), REST API Design
-Frontend Ecosystem: React.js, TypeScript, HTML, CSS
-DevOps & Monitoring: Docker, Jenkins, GitHub Actions, Kubernetes, Prometheus, Grafana
-Databases & Tools: MySQL, SQLite, MongoDB, Git, GitHub, Postman, VS Code
-📂 Projects
-Project	Architecture & Impact	Core Stack
-DevOps-Driven API Gateway Management System	Centralized API gateway on AWS EC2 routing REST traffic across 3 microservices for a 4-person team; automated CI/CD cut deployment time ~50%.	React.js, Java, Spring Boot, AWS, Docker
-Job Portal Web Application	Full-stack job portal exposing 15+ REST API endpoints connecting job seekers and recruiters, with role-based auth.	React.js, TypeScript, Node.js, Spring Boot, MySQL
-FarmNest – Agricultural Marketplace	Django-based marketplace connecting farmers and consumers across 2 user roles, with cart and order management.	Django, Python, MySQL/SQLite
-PDF RAG Q&A Bot	Full-stack Retrieval-Augmented Generation pipeline — chunking, embedding, and LLM-based Q&A over documents.	Python, LangChain, FAISS, Streamlit
-Sikkim Monastery Experience Platform	Responsive website showcasing cultural and scenic beauty with an interactive, smooth-navigation UI.	HTML, CSS, JavaScript
-TradeAI Pro – Stock Market Dashboard	Frontend dashboard for stock market analysis with interactive trend visualizations.	HTML, CSS, JavaScript
-🏆 Certifications
-ServiceNow: ServiceNow Certified System Administrator (Aug 2025)
-ServiceNow: ServiceNow Certified Application Developer (2025)
-Oracle: Oracle Certified Foundations Associate
-Salesforce: Salesforce Certified AI Associate (2024)
+---
+
+### 🚀 Executive Summary
+
+I specialize in full-stack application development, software performance engineering, and data analytics. With professional experience designing modular client-side components and formulating complex data transformation pipelines, my focus lies in architecting scalable, data-driven systems and optimizing backend infrastructure.
+
+### 💼 Professional Industry Experience
+
+- **Technical Leadership @ Google Student Ambassador** 
+  *Spearheaded developer community frameworks to accelerate the adoption and integration of LLM APIs and cloud-native workflows.*
+
+### 🛠️ Technical Arsenal
+
+- **Core Languages:** Java, C, C++, Python, SQL, TypeScript, JavaScript
+- **Backend & Cloud:** Spring Boot, Node.js, Express, Google Cloud Platform (GCP), Hibernate, REST APIs
+- **Frontend Ecosystem:** React, Vite, HTML, CSS
+- **DevOps & Architecture:** Git, GitHub, MySQL, Infrastructure Design
+
+### 📂 Feature Engineering & Systems Architecture
+
+| System / Project | Architecture & Business Impact | Core Stack |
+| :--- | :--- | :--- |
+| **Job	Portal	Web	Application** | Developed a Job Portal using Spring Boot, enabling users to search and apply for jobs while allowing recruiters to post and manage job listings. | React.js,	TypeScript,	Node.js,	Spring	Boot,	MySQL,	HTML,	CSS,	Java |
+| **Monastery Experience Platform** | Architected the backend services framework and deployed the highly-available application architecture on Vercel. | Spring Boot, React, Vercel |
+| **FarmNest–Agricultural	Marketplace** | Built	a	Django-based	marketplace	connecting	farmers	directly	with	consumers	across 2 distinct	user	roles, backed	by	a	relational	database. | Django,	Python,	HTML,	CSS,	JavaScript, SQL |
+| **DevOps-Driven	API	Gateway	Management	System** | Developed a DevOps-Driven API Gateway Management System to automate API deployment, routing, monitoring, and management using Docker, Jenkins, and CI/CD practices. | React.js,	Java,	Spring	Boot,	Spring	Cloud	Gateway,	MySQL,	Docker |
+
+### 🏆 Verified Credentials & Certifications
+
+- **Oracle:** Oracle Certified Foundations Associate (April 2026)
+- **Salesforce:** Salesforce Certified AI Associate (Oct 2024)
+- **ServiceNow:** ServiceNow	Certified	System	Administrator (Aug 2025)
+- **ServiceNow:** ServiceNow	Certified	Application	Developer (Aug 2025)
+-
